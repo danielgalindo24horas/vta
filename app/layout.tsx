@@ -1,6 +1,6 @@
 import "./globals.css";
 import type { Metadata } from "next";
-import RegisterSW from "@/components/RegisterSW";
+import RegisterSW from "../components/RegisterSW";
 
 export const metadata: Metadata = {
   title: "VTA — Voice-to-Action",
